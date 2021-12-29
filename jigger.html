@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+
+<html lang="en">
+  <head>
+    <title>address jigger</title>
+    <link rel="stylesheet" href="styles.css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <script type="text/javascript" src="jigger_script.js"></script>
+  </head>
+
+  <body>
+    <div>
+      <h1 id="centered_title">
+        <strong>Address Jigger</strong> by <strong>nat_E#3088</strong>
+      </h1>
+    </div>
+
+    <div>
+      <form
+        name="addr_line1_form"
+        autocomplete="off"
+        onsubmit="addressJig1(event)"
+      >
+        <legend><strong>Line One Jig</strong></legend>
+        <label for="addr_line1">Address line 1:</label>
+        <input
+          type="text"
+          id="addr_line1"
+          name="addr_line1"
+          required="required"
+        />
+        <br />
+
+        <label for="amount">How many do you want? (max 2500):</label>
+        <input
+          type="number"
+          class="amount"
+          id="line1_amount"
+          name="amount"
+          max="2500"
+          required="required"
+        />
+        <br />
+
+        <input type="submit" value="Submit" />
+      </form>
+    </div>
+
+    <div>
+      <textarea
+        class="output"
+        id="line1_output"
+        rows="15"
+        cols="10"
+        spellcheck="false"
+        readonly
+      ></textarea>
+    </div>
+
+    <div>
+      <form
+        name="add_line2_form"
+        autocomplete="off"
+        onsubmit="addressJig2(event)"
+      >
+        <legend><strong>Line Two Jig</strong></legend>
+        <label for="amount">How many do you want? (max 2500):</label>
+        <input
+          type="number"
+          id="line2_amount"
+          class="amount"
+          name="amount"
+          max="2500"
+          required="required"
+        />
+        <br />
+
+        <input type="submit" value="Submit" />
+      </form>
+    </div>
+
+    <div>
+      <textarea
+        class="output"
+        id="line2_output"
+        rows="15"
+        cols="10"
+        spellcheck="false"
+        readonly
+      ></textarea>
+    </div>
+  </body>
+</html>
