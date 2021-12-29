@@ -102,3 +102,8 @@ const addressJig2 = e => {
     sendOutput(jigs, "#line2_output")
     return false
 }
+
+const updateFunction = input_field => {
+    const line2Amount = document.querySelector("#line2_amount")
+    line2Amount.value = input_field.value
+}
