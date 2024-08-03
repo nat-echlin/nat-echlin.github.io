@@ -12,7 +12,7 @@ It copied other people's crypto derivatives trades - we realised that there some
 
 ## Why did it fail.
 
-LS went into production Feb '23, and EOL'd September '23. We lasted just under a year from the first alpha release. Summer '23 saw a big downturn in crypto, and that only meant a bigger downturn in the derivatives market. The traders we copied were significantly less profitable, so we were too. A lot were in the red.
+LS went into production Feb '23, and EOL'd September '23. We lasted just under a year from the first alpha release. Summer '23 saw a downturn in crypto, and that only meant a bigger downturn in the derivatives market. The traders we copied were significantly less profitable, so we were too. A lot were in the red.
 
 What didn't help is that I hadn't hired fast enough. If you desperately need to hire, it's far too late. It takes _at least_ 3 months for a full time engineer to meaningfully contribute to a project, and we didn't have that breathing room. And I was in full time education - even I wasn't the full time engineer that we needed.
 
@@ -31,7 +31,7 @@ https://github.com/nat-echlin/lightspeed-trading--clean
 
 Above is the sanitised repo, completely open sourced. It's awful, but it's awful for a reason.
 
-Originally, the bot was written in Python, and I compiled it into a Windows executable which was sent out to users (what the fuck?). I gave instructions on how to set up a EC2, people downloaded the bot onto, stuck in their license key, and they were pretty much done. Each user was independent - their bot would scrape Binance, and if it spotted a trade, the bot would execute that trade on ByBit. It worked.
+Originally, the bot was written in Python, and I compiled it into a Windows executable which was sent out to users (what the fuck?). I gave instructions on how to set up a EC2, people downloaded the bot onto it, stuck in their license key, and they were pretty much done. Each user was independent - their bot would scrape Binance, and if it spotted a trade, the bot would execute that trade on ByBit. It worked.
 
 But a google search would've given step by step instructions on how to decompile that exectuable into the raw Python code, and for what was supposed to be a competetive business, that's not acceptable.
 
@@ -59,7 +59,7 @@ This seems obvious, but I see it in products I've worked on in billion dollar co
 
 I've spoken to lots of much better engineers than me about this (regarding DRY), and the conclusion I've come to is - kinda. [Grug](https://grugbrain.dev/#grug-on-dry) gives a much better explanation than what I could. The LS codebase is not good for DRY principles - see `router.go` - 140 lines of crap:
 
-```
+```go
 router.Handle("/user/listBots", corsMiddleware(v.authoriseJWT(http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
     if r.Method != http.MethodGet {
         http.Error(w, "Invalid request method", http.StatusMethodNotAllowed)
@@ -96,12 +96,12 @@ Some things are pretty scary to write. For example; authentication & authorisati
 
 ###### The final tech stack.
 
-If you like boring lists - the best solution I found was a monorepo running on an Ubuntu EC2. Before then it used Lambda, DynamoDB, with some continuous processes on an EC2. The monorepo solution was easier to deal with and build upon. It used Postgres & MongoDB (should've been all Postgres). The frontend was built with Electron (mid move), and we hosted it on Vercel (smart move). Vercel made auth super easy, since they handled JWT creation - the backend just had to authorise them. Languages, obviously Go for serious computational work. But JS plays nice in a Lambda.
+If you like boring lists - the best solution I found was a monorepo running on an Ubuntu EC2. Before then it used Lambda, DynamoDB, with some continuous processes on an EC2. The monorepo solution was easier to deal with and build upon. It used Postgres & MongoDB (should've been all Postgres). The frontend was built with Next.js (mid move), and we hosted it on Vercel (smart move). Vercel made auth super easy, since they handled JWT creation - the backend just had to authorise them. Languages, obviously Go for serious computational work. But JS plays nice in a Lambda.
 
 ## The end -
 
 LightSpeed is the most fun I've ever had. Sitting in lectures in my first year of university, and watching the bot make 6 figure trades, is easily the coolest experience I've had. Building something that real people actually want to use is an incredible feeling, and makes the 2am sessions worth it.
 
-My advice for an engineer - just build something, it'll work.
+My advice for an engineer - just build something, you can probably figure it out. This picture says that better than words can.
 
 ![image](skill_issue.png)

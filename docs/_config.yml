@@ -28,7 +28,7 @@ twitter_username: NatEchlin
 github_username: nat-echlin
 
 # Build settings
-theme: merlot
+theme: jekyll-theme-dinky
 plugins:
   - jekyll-feed
 # Exclude from processing.
