@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Managing a million dollar pool with 15k lines of Go.
 
 LightSpeed Trading was my first serious project. People gave us their money, and the trading bot made it into more money. Easy. I worked with a non technical friend, who taught me a lot about business. At our peak, we had over 500 users, and the bot was trading with over a million dollars of our users' money.
