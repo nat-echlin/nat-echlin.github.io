@@ -28,9 +28,13 @@ twitter_username: NatEchlin
 github_username: nat-echlin
 
 # Build settings
-theme: jekyll-theme-dinky
+
+theme: jekyll-theme-merlot
+# remote_theme: hugoferreira/papyrus-theme
+
 plugins:
   - jekyll-feed
+  # - jekyll-remote-theme
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
