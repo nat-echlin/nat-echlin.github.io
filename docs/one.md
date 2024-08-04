@@ -29,9 +29,9 @@ For us, that meant to get (& keep) users, we had to be making money for them rig
 
 ## The technical side.
 
-(this part is entirely uninteresting if you don't care for engineering)
+This section will be harder to follow if you haven't much technical experience, or you aren't interested in the engineering behind the project.
 
-https://github.com/nat-echlin/lightspeed-trading--clean
+[Github repo.](https://github.com/nat-echlin/lightspeed-trading--clean)
 
 Above is the sanitised repo, completely open sourced. It's awful, but it's awful for a reason.
 
