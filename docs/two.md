@@ -27,23 +27,23 @@ use-prospect.com
 
 Prospect is software for events. I call it 'pre-networking'. Taken from the landing page:
 
-"An introduction before you meet.
-Prospect ensures your time at events is spent on conversations that matter.
-We connect you with worthwhile prospects before you step into the room.
-
-Why?
-
-Prospect solves the two issues with networking at an event - timewasting, and fear.
-
-The uncomfortable fact is that most people are not worth meeting at an event. But to work out if someone is in fact worth meeting, it takes at least ten minutes, which are entirely wasted in most cases. Then there's the first few minutes of the encounter - first it's niceties, then you're trying to work out what questions to ask, to be able to probe deeper and have a meaningful discussion.
-
-Then the fear - we all come to an event a bit nervous, and because of that don't meet the right people. It's easy to hang back, or to do the opposite - to accept quantity over quality, by just aiming for 'meeting five people' or 'getting five business cards'. But these connections aren't worthwhile. We should want just one or two new people that we know we'll continue with.
-
-How?
-
-Tinder, for professionals, localised to a specific event. Enter your profile, and swipe yes or no on other attendees.
-
-When you get a connection with someone else, each of you knows for certain that you both want to meet. You skip the surface level questions, and get right to the juice."
+> An introduction before you meet.
+> Prospect ensures your time at events is spent on conversations that matter.
+> We connect you with worthwhile prospects before you step into the room.
+> 
+> Why?
+> 
+> Prospect solves the two issues with networking at an event - timewasting, and fear.
+> 
+> The uncomfortable fact is that most people are not worth meeting at an event. But to work out if someone is in fact worth meeting, it takes at least ten minutes, which are entirely wasted in most cases. Then there's the first few minutes of the encounter - first it's niceties, then you're trying to work out what questions to ask, to be able to probe deeper and have a meaningful discussion.
+> 
+> Then the fear - we all come to an event a bit nervous, and because of that don't meet the right people. It's easy to hang back, or to do the opposite - to accept quantity over quality, by just aiming for 'meeting five people' or 'getting five business cards'. But these connections aren't worthwhile. We should want just one or two new people that we know we'll continue with.
+> 
+> How?
+> 
+> Tinder, for professionals, localised to a specific event. Enter your profile, and swipe yes or no on other attendees.
+> 
+> When you get a connection with someone else, each of you knows for certain that you both want to meet. You skip the surface level questions, and get right to the juice.
 
 ### Selling emotions?
 
