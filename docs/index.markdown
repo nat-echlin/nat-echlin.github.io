@@ -5,5 +5,17 @@
 layout: default
 ---
 
-One: [Managing a million dollar pool with 15k lines of Go.](/one)  
+Finishing a BSc Data Science at the University of Bristol. Looking for a good job. Working on projects I find interesting. Writing about them.
+
+GitHub: nat-echlin\
+Twitter: NatEchlin\
+Instagram: nat.echlin
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+One: [Managing a million dollar pool with 15k lines of Go.](/one)\
 Two: [Marketing the consumer social model - selling emotions.](/two)

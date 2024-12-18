@@ -109,3 +109,7 @@ LightSpeed is the most fun I've ever had. Sitting in lectures in my first year o
 My advice for an engineer - just build something, you can probably figure it out. This picture says that better than words can.
 
 ![image](skill_issue.png)
+
+***
+
+Aug 3rd, 2024.
