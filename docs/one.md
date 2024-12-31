@@ -96,7 +96,7 @@ Again this goes back to the attitude of not caring about it unless it's absolute
 
 #### Fear.
 
-Some things are pretty scary to write. For example; authentication & authorisation, payment processors, trade executors. Get auth wrong, and suddenly you have very angry users. But you have to just do it. You will make mistakes, and hopefully you'll be able to cover them up. E.G., I fucked up the trade executor, and broke one of the pre-trade safety checks - it looked at asset price difference between different exchanges, ByBit and Binance - too high a difference, no trade. I thought I was fixing it, but instead the limit for 'no trade' was increased by 100, ie it would never be hit. **We lost ~\$8,000 because of that mistake**. But who cares. The teacher was $8,000, the lesson was _write more tests for the scary parts_.
+Some things are pretty scary to write. For example; authentication & authorisation, payment processors, trade executors. Get auth wrong, and suddenly you have very angry users. But you have to just do it. You will make mistakes, and hopefully you'll be able to cover them up. E.G., I let a bug get into the trade executor, and broke one of the pre-trade safety checks - it looked at asset price difference between different exchanges, ByBit and Binance - too high a difference, no trade. I thought I was fixing it, but instead the limit for 'no trade' was increased by 100, ie it would never be hit. **We lost ~\$8,000 because of that mistake**. But who cares. The teacher was $8,000, the lesson was _write more tests for the scary parts_.
 
 ###### The final tech stack.
 
