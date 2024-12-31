@@ -55,7 +55,7 @@ This ties into the utility side of Prospect. That sense of validation reduces th
 
 Execution. 
 
-VC's like it, a lady I'm speaking to who's been running events for years loves it. But consumer social apps are fucking hard to get right. Luckily for me, there isn't an incumbent in the space, so I don't have to juggle that. If there was, it wouldn't be worth even trying. 
+VC's like it, a lady I'm speaking to who's been running events for years loves it. But consumer social apps are hard to get right - a moonshot. Luckily for me, there isn't an incumbent in the space, so I don't have to juggle that. If there was, it wouldn't be worth even trying. 
 
 But that doesn't mean it'll 'just work'. Social apps take a long time to take off, because the utility of them is proportional to how many other people use them. And since the number of people using Prospect is essentially reset for each event, it'll be worthless for the first signup, then slowly get more and more useful with more people signing up. 
 

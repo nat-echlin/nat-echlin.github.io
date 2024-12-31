@@ -6,7 +6,7 @@ layout: default
 
 LightSpeed Trading was my first serious project. People gave us their money, and the trading bot made it into more money. Easy. I worked with a non technical friend, who taught me a lot about business. At our peak, we had over 500 users, and the bot was trading with over a million dollars of our users' money.
 
-This blog is mostly aimed at engineers - if you're technically inclined, I hope the 'technical side' section makes you think one of, 'wow this guy is fucking dumb' or 'these are some good points'. Either's fine.
+This blog is mostly aimed at engineers - if you're technically inclined, I hope the 'technical side' section makes you think one of, 'wow this guy is clueless' or 'these are some good points'. Either's fine.
 
 The code for the bot is linked below.
 
@@ -35,7 +35,7 @@ This section will be harder to follow if you haven't much technical experience, 
 
 Above is the sanitised repo, completely open sourced. It's awful, but it's awful for a reason.
 
-Originally, the bot was written in Python, and I compiled it into a Windows executable which was sent out to users (what the fuck?). I gave instructions on how to set up a EC2, people downloaded the bot onto it, stuck in their license key, and they were pretty much done. Each user was independent - their bot would scrape Binance, and if it spotted a trade, the bot would execute that trade on ByBit. It worked.
+Originally, the bot was written in Python, and I compiled it into a Windows executable which was sent out to users. Absurd, looking back. I gave instructions on how to set up a EC2, people downloaded the bot onto it, stuck in their license key, and they were pretty much done. Each user was independent - their bot would scrape Binance, and if it spotted a trade, the bot would execute that trade on ByBit. It worked.
 
 But a google search would've given step by step instructions on how to decompile that exectuable into the raw Python code, and for what was supposed to be a competetive business, that's not acceptable.
 
@@ -90,7 +90,7 @@ router.Handle("/user/getLicense", corsMiddleware(v.authoriseJWT(http.HandlerFunc
 ... etc etc ... you get the point.
 ```
 
-Why the fuck was this not dealt with????
+Why was this not dealt with????
 
 Again this goes back to the attitude of not caring about it unless it's absolutely necessary. At the end of the day, **you are writing software to provide value to users & make money**. Copy and pasting that block saved me time - net positive.
 
