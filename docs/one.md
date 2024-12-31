@@ -12,11 +12,11 @@ The code for the bot is linked below.
 
 ## How did it work.
 
-It copied other people's crypto derivatives trades - we realised that there some exceptional traders out there, and they made their trades public. The logical next step is to copy them, and make those same gains. While the market was up, it worked frighteningly well. Our best day saw $40,000 made over 3 minutes. When the markets turned down, our userbase fell from over 500 to about 15 active users.
+It copied other people's crypto futures trades - we realised that there some exceptional traders out there, and they made their trades public. The logical next step is to copy them, and make those same gains. While the market was up, it worked frighteningly well. Our best day saw $40,000 made over 3 minutes. When the markets turned down, our userbase fell from over 500 to about 15 active users.
 
 ## Why did it fail.
 
-LS went into production Feb '23, and EOL'd September '23. We lasted just under a year from the first alpha release, in December '22. Summer '23 saw a downturn in crypto, and that only meant a bigger downturn in the derivatives market. The traders we copied were significantly less profitable, so we were too. A lot were in the red.
+LS went into production Feb '23, and EOL'd September '23. We lasted just under a year from the first alpha release, in December '22. Summer '23 saw a downturn in crypto. The traders we copied were significantly less profitable, so we were too. A lot were in the red.
 
 What didn't help is that I hadn't hired fast enough. If you desperately need to hire, it's far too late. It takes _at least_ 3 months for a full time engineer to meaningfully contribute to a project, and we didn't have that breathing room. And I was in full time education - even I wasn't the full time engineer that we needed.
 
