@@ -18,4 +18,5 @@ Instagram: nat.echlin
 &nbsp;
 
 One: [Managing a million dollar pool with 15k lines of Go.](/one)\
-Two: [Marketing the consumer social model - selling emotions.](/two)
+Two: [Marketing the consumer social model - selling emotions.](/two)\
+Three: [Pairwise statistical arbitrage in an inefficient market, and a 40% gain over 6 months.](/three)
