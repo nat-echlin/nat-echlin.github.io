@@ -151,7 +151,7 @@ $$\rho^*(A, B) = u^*(A) - u^*(B).$$
 
 It won't always be possible to find a $$u^*$$ score that's correct for all sets of pairs, so we will have to settle for the best possible approximation - for that, we introduce the $$\rho^*(\cdot)$$ approximation of the original $$\rho$$ preference function. We can find our utility function by solving
 
-$$u^* = \underset{u^*}{\arg\min}\left|\sum_{i, j} \rho\left(s_i, s_j\right) - \left[u^*\left(s_i\right)-u^*\left(s_j\right)\right]\right|,$$
+$$\underset{u^*}{\arg\min}\left|\sum_{i, j} \rho\left(s_i, s_j\right) - \left[u^*\left(s_i\right)-u^*\left(s_j\right)\right]\right|,$$
 
 for all assets $$i, j$$, therefore minimising the sum of differences between all $$\rho$$ and $$\rho^*$$.
 
@@ -195,7 +195,7 @@ When we compute the utility scores by $$u^* = \frac{1}{N}B^T\rho$$, we lose some
 
 So we modify our $$u^*$$ definition slightly, to
 
-$$u^* = \underset{u^*}{\arg\min}\sum_{i, j}\Big(\rho\left(s_i, s_j\right) - \left[u^*\left(s_i\right)-u^*\left(s_j\right)\right]\Big)^2.$$
+$$\underset{u^*}{\arg\min}\sum_{i, j}\left(\rho\left(s_i, s_j\right) - \left[u^*\left(s_i\right)-u^*\left(s_j\right)\right]\right)^2.$$
 
 By using OLS we're penalising the squared error instead, so large deviations (when our $$u^*$$ is a reallyyy bad approximation) get penalised a lot more than small deviations. This has quite a meaningful impact on the performance of the strategy:
 
