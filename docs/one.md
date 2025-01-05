@@ -41,7 +41,7 @@ But a google search would've given step by step instructions on how to decompile
 
 So, I made the decision to rewrite it in Go, having never used Go before, and over five days of not leaving my flat - it was done. At this point I think it came to about 6 or 7k lines. This refactored the model so that all trades were executed from a central EC2, and users could login to the bot via a web dashboard, and set their config from there. This worked much better. Our trade execution speed doubled, so users were more profitable. We were hitting Binance hard, making ~100 requests per second. These requests were routed through the fastest proxies I could buy.
 
-Go as a language is beautiful, and the productivity you can reach using it is second to none. But I'd never used it before, so during the rewrite, the bot was still in production - I didn't have time to learn things that weren't strictly necessary. For example - while that repo does include a custom built crypto payments processor API, it doesn't include folders - because I didn't know how to import from non sibling files (and still don't). Likewise, while it does have 5000 lines of unit & e2e tests - they're all in one file, `main.test`.
+Go as a language is beautiful, and the productivity you can reach using it is second to none. But I'd never used it before, so during the rewrite, the bot was still in production - I didn't have time to learn things that weren't strictly necessary. For example - while that repo does include a custom built crypto payments processor API, it doesn't include folders - because I didn't know how to import from non sibling files in Go. Likewise, while it does have 5000 lines of unit & e2e tests - they're all in one file, `main_test.go`.
 
 #### Is that a good attitude.
 
