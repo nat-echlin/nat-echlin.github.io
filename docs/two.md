@@ -92,3 +92,11 @@ To end similarly to the last one - keep building new things.
 ***
 
 Oct 17th, 2024.
+
+***
+
+_Right, two issues people have had that I feel I must mention, regarding my point on businesses selling profits._
+
+_"Remember the whole 'nobody got fired for buying off IBM' thing? Clearly businesses don't sell profits since IBM weren't always the best option!" - Firstly no I don't remember, I wasn't alive. And secondly yes fine but that's the principal-agent problem and I can't recommend **starting** a product targeting that._
+
+_"What about selling to lifestyle businesses? Gotcha!" - Again... yes, fine, but relevant in so few cases. There my argument would be that you are selling value, and you need to determine their definition of value - which you structure your product around._ 
