@@ -19,4 +19,5 @@ Instagram: nat.echlin
 
 One: [Managing a million dollar pool with 15k lines of Go.](/one)\
 Two: [Marketing the consumer social model - selling emotions.](/two)\
-Three: [Pairwise statistical arbitrage in an inefficient market, and a 40% gain over 6 months.](/three)
+Three: [Pairwise statistical arbitrage in an inefficient market.](/three)\
+Four: [QLoRA Fine-tuned LLMs for Recommendation Models at Burberry](/four)
