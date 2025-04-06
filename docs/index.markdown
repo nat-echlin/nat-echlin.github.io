@@ -5,7 +5,7 @@
 layout: default
 ---
 
-Finishing a BSc Data Science at the University of Bristol. Looking for a good job. Working on projects I find interesting. Writing about them.
+Finishing a BSc Data Science at the University of Bristol. Working on projects I find interesting. Writing about them.
 
 GitHub: nat-echlin\
 Twitter: NatEchlin\
