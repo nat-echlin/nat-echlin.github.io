@@ -4,6 +4,10 @@ layout: default
 
 # Pairwise statistical arbitrage in an inefficient market, and a 40% gain over 6 months.
 
+*Apr 2025: This is complete slop btw, and I'm half tempted to take it down. I did it to try and get a summer research bursary from uni, but going over it now... damn, it sucks.*
+
+---
+
 *Find code on [GitHub](https://github.com/nat-echlin/trading-public).*
 
 Pairwise statistical arbitrage is a well-researched strategy - it can get very complex, but the core idea is simple. 
