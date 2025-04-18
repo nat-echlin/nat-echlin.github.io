@@ -12,12 +12,12 @@ Twitter: NatEchlin\
 Instagram: nat.echlin
 
 &nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
 
 One: [Managing a million dollar pool with 15k lines of Go.](/one)\
 Two: [Marketing the consumer social model - selling emotions.](/two)\
 Three: [Pairwise statistical arbitrage in an inefficient market.](/three)\
 Four: [QLoRA Fine-tuned LLMs for Recommendation Models at Burberry](/four)
+
+&nbsp;
+
+See [here](/other-stuff) for a list of other blogs worth reading.
