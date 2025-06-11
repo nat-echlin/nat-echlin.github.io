@@ -11,13 +11,15 @@ GitHub: nat-echlin\
 Twitter: NatEchlin\
 Instagram: nat.echlin
 
+Or contact me at nat.echlin@gmail.com.
+
 &nbsp;
 
 One: [Managing a million dollar pool with 15k lines of Go.](/one)\
 Two: [Marketing the consumer social model - selling emotions.](/two)\
 Three: [Pairwise statistical arbitrage in an inefficient market.](/three)\
-Four: [QLoRA Fine-tuned LLMs for Recommendation Models at Burberry](/four)\
-Five: [Real-time podcast fact-checking costs pennies](/five)
+Four: [QLoRA Fine-tuned LLMs for Recommendation Models at Burberry.](/four)\
+Five: [Real-time podcast fact-checking costs pennies.](/five)
 
 &nbsp;
 
