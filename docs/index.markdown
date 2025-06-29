@@ -5,7 +5,7 @@
 layout: default
 ---
 
-Finishing a BSc Data Science at the University of Bristol. Working on projects I find interesting. Writing about them.
+Working on projects I find interesting. Writing about them.
 
 GitHub: nat-echlin\
 Twitter: NatEchlin\
@@ -22,5 +22,7 @@ Four: [QLoRA Fine-tuned LLMs for Recommendation Models at Burberry.](/four)\
 Five: [Real-time podcast fact-checking costs pennies.](/five)
 
 &nbsp;
+
+***
 
 See [here](/other-stuff) for a list of other blogs worth reading.
