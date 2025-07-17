@@ -6,7 +6,7 @@ layout: default
 
 The B2B (selling to other businesses) model is a much easier model to understand than B2C (selling to consumers). When you sell to another business, you are selling money. I first point to LightSpeed. We were selling profits. Pay us a licence fee, but you'll make more than that back. We sold money. 
 
-Other B2C examples all follow this concept but at different levels of removal. Keeping it simple, AWS EC2 - don't spend money on hosting your own servers, spend it on us and you'll be net positive. Therefore, selling decreased costs. Selling profit. Or, we can go further and look at Slack. By making quick, asynchronous communication easier, people spend less time waiting for emails, have an easier UI to navigate, etc. Collaboration improves - your employees are more productive, and then produce more deliverable work, leading to more revenue. Selling profits, assuming that the Slack costs are low enough.
+Other B2B examples all follow this concept but at different levels of removal. Keeping it simple, AWS EC2 - don't spend money on hosting your own servers, spend it on us and you'll be net positive. Therefore, selling decreased costs. Selling profit. Or, we can go further and look at Slack. By making quick, asynchronous communication easier, people spend less time waiting for emails, have an easier UI to navigate, etc. Collaboration improves - your employees are more productive, and then produce more deliverable work, leading to more revenue. Selling profits, assuming that the Slack costs are low enough.
 
 But the B2C social model is entirely different. You aren't selling money anymore. You are selling emotions.
 
