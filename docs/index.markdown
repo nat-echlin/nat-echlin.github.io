@@ -5,7 +5,9 @@
 layout: default
 ---
 
-Working on projects I find interesting. Writing about them.
+Working on projects I find interesting. Writing about them. 
+
+Currently doing research at [cursive.ai](https://www.cursive.ai/).
 
 GitHub: nat-echlin\
 Twitter: NatEchlin\
