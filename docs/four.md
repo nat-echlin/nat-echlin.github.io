@@ -1,8 +1,7 @@
 ---
 layout: default
+title: "QLoRA Fine-tuned LLMs for Recommendation Models at Burberry."
 ---
-
-# QLoRA Fine-tuned LLMs for Recommendation Models at Burberry.
 
 As you browse an e-commerce site, which products are shown to you is often decided by a trained model. A clear location we see a model in action is at checkout - we've added something to our bag, and a pop-up appears recommending us other items. 
 

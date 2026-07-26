@@ -1,30 +1,30 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: default
 ---
 
-Working on projects I find interesting. Writing about them. 
+<div class="intro" markdown="1">
+
+# Nat Echlin
+
+Working on projects I find interesting. Writing about them.
 
 Currently doing research at [cursive.ai](https://www.cursive.ai/).
 
-GitHub: nat-echlin\
-Twitter: NatEchlin\
-Instagram: nat.echlin
+Reach me at [nat.echlin@gmail.com](mailto:nat.echlin@gmail.com), or on
+[GitHub](https://github.com/nat-echlin),
+[Twitter](https://twitter.com/NatEchlin) and
+[Instagram](https://instagram.com/nat.echlin).
 
-Or contact me at nat.echlin@gmail.com.
+</div>
 
-&nbsp;
+## Writing
 
-One: [Managing a million dollar pool with 15k lines of Go.](/one)\
-Two: [Marketing the consumer social model - selling emotions.](/two)\
-Three: [Pairwise statistical arbitrage in an inefficient market.](/three)\
-Four: [QLoRA Fine-tuned LLMs for Recommendation Models at Burberry.](/four)\
-Five: [Real-time podcast fact-checking costs pennies.](/five)
+<ul class="writing">
+  <li><a href="{{ '/one' | relative_url }}"><span class="n">One</span><span class="t">Managing a million dollar pool with 15k lines of Go.</span></a></li>
+  <li><a href="{{ '/two' | relative_url }}"><span class="n">Two</span><span class="t">Marketing the consumer social model — selling emotions.</span></a></li>
+  <li><a href="{{ '/three' | relative_url }}"><span class="n">Three</span><span class="t">Pairwise statistical arbitrage in an inefficient market.</span></a></li>
+  <li><a href="{{ '/four' | relative_url }}"><span class="n">Four</span><span class="t">QLoRA fine-tuned LLMs for recommendation models at Burberry.</span></a></li>
+  <li><a href="{{ '/five' | relative_url }}"><span class="n">Five</span><span class="t">Real-time podcast fact-checking costs pennies.</span></a></li>
+</ul>
 
-&nbsp;
-
-***
-
-See [here](/other-stuff) for a list of other blogs worth reading.
+Elsewhere: a list of [other blogs worth reading]({{ '/other-stuff' | relative_url }}).

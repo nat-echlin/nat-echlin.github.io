@@ -1,8 +1,7 @@
 ---
 layout: default
+title: "Pairwise statistical arbitrage in an inefficient market, and a 40% gain over 6 months."
 ---
-
-# Pairwise statistical arbitrage in an inefficient market, and a 40% gain over 6 months.
 
 *Apr 2025: This is complete slop btw, and I'm half tempted to take it down. I did it to try and get a summer research bursary from uni, but going over it now... damn, it sucks.*
 

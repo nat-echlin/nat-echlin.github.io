@@ -1,8 +1,7 @@
 ---
 layout: default
+title: "Blogs worth reading"
 ---
-
-# Blogs worth reading
 
 - Aaron Swarts - [How I Hire Programmers](http://www.aaronsw.com/weblog/hiring.en)
 

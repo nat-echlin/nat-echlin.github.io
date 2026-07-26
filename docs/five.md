@@ -1,8 +1,7 @@
 ---
 layout: default
+title: "Real-time podcast fact-checking costs pennies."
 ---
-
-# Real-time podcast fact-checking costs pennies.
 
 In mid-April, I was listening to a football podcast and completely lost focus when they spent ten seconds trying to search the Ballon D'Or rankings from 2019. I kept listening for these moments, and it kept happening. Then, I emailed the production studio behind that podcast and told them how I could solve it with an elegant, real-time solution.
 

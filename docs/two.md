@@ -1,8 +1,7 @@
 ---
 layout: default
+title: "Marketing the consumer social model - selling emotions."
 ---
-
-# Marketing the consumer social model - selling emotions.
 
 The B2B (selling to other businesses) model is a much easier model to understand than B2C (selling to consumers). When you sell to another business, you are selling money. I first point to LightSpeed. We were selling profits. Pay us a licence fee, but you'll make more than that back. We sold money. 
 
