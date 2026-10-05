@@ -31,12 +31,12 @@ Given that prices are expected to continue rising, if a cloud locks in a long co
 
 ### Nvidia, TSMC
 
-Nvidia has the same fear as everyone else; it has to commit to buying TSMC's wafers & capacity years ahead, which is the exact same underbuy/overbuy bet the neoloabs make, just much bigger. As well, it has to worry about competing accelerators:
+Nvidia has the same fear as everyone else; it has to commit to buying TSMC's wafers & capacity years ahead, which is the exact same underbuy/overbuy bet the neolabs make, just much bigger. As well, it has to worry about competing accelerators:
 
 - Google is now pushing TPUs commercially, having mostly kept them internal during their development.
 - Amazon's Trainium (which is really an inference chip) seems to be showing signs of life.
 - Huawei chips are in use by all the Chinese labs, alongside Nvidia's.
-- and AMDs chips are still... just AMD chips.
+- and AMD's chips are still... just AMD chips.
 
 Luckily on the software side, CUDA is still so far ahead of the pack that Nvidia probably isn't losing too much sleep over potential hardware competitors. Its most imminent worry is demand shocks in either direction. 
 
