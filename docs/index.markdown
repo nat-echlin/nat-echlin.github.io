@@ -10,7 +10,7 @@ Working on projects I find interesting. Writing about them.
 
 Currently doing research at [cursive.ai](https://www.cursive.ai/).
 
-Reach me at [nat.echlin@gmail.com](mailto:nat.echlin@gmail.com), or on
+Reach me at {firstname}.{surname}@gmail.com, or on
 [GitHub](https://github.com/nat-echlin),
 [Twitter](https://twitter.com/NatEchlin) and
 [Instagram](https://instagram.com/nat.echlin).
