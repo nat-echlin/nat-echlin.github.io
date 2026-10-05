@@ -25,7 +25,7 @@ As a neocloud, my gamble is that compute prices don't go down. I'm usually raisi
 
 If compute demand stays the same, I'm OK - my margin is selling shorter-term rentals on the hardware that I'm getting cheaper rates on. I'll orchestrate construction around locations with cheaper energy and easy permitting, and win. If compute goes up, I'm doing even better! Now I get the added margin from price at t_purchase to today. But if demand drops - or even if demand growth slows - everything detonates. Suddenly, I'm forced to start selling compute at a rate that can't satisfy the financing I agreed to last year. 
 
-- we're seeing the edges of this model already; [Nvidia's putting pressure on insurers](https://finance.yahoo.com/technology/ai/articles/nvidia-looks-insurers-shoulder-losses-233056235.html), to cover potential losses from lenders losses on neocloud loans.
+- we're seeing the edges of this model already; [Nvidia's putting pressure on insurers](https://finance.yahoo.com/technology/ai/articles/nvidia-looks-insurers-shoulder-losses-233056235.html), to cover lenders' losses on neocloud loans.
 
 Given that prices are expected to continue rising, if a cloud locks in a long contract with a lab today, they worry that they're needlessly limiting their own potential margins. They'd rather hold capacity back to drip-feed it, or sell it on a shorter contract. This also explains the lab's uncertainty with lead-times; it stems from the cloud's fear about price, not just the physical requirements imposed by delivery of optical transceivers. Furthermore, from the neocloud's perspective - the labs' overbuying of compute (out of the aforementioned uncertainty) looks like a rising tide of demand. Overall, this fear is self-fulfilling, where everyone's acting on it and making prices rise even further.  
 
@@ -35,7 +35,7 @@ Nvidia has the same fear as everyone else; it has to commit to buying TSMC's waf
 
 - Google is now pushing TPUs commercially, having mostly kept them internal during their development.
 - Amazon's Trainium (which is really an inference chip) seems to be showing signs of life.
-- Huawei (the PLA, rather) chips are in use by all the Chinese labs.
+- Huawei chips are in use by all the Chinese labs, alongside Nvidia's.
 - and AMDs chips are still... just AMD chips.
 
 Luckily on the software side, CUDA is still so far ahead of the pack that Nvidia probably isn't losing too much sleep over potential hardware competitors. Its most imminent worry is demand shocks in either direction. 
@@ -44,7 +44,7 @@ Nvidia's answer is to sell reassurance.
 
 First, it invests in its own customers down the stack. Neoclouds, of course, but also frontier labs like OpenAI ($30B) and Anthropic ($10B). Clearly there's a bit of a circlejerk going on here - almost all of this investment will go back to Nvidia in a straight line given how much labs spend on compute - but through the lens of comfort-provision it's an elegant move.
 
-Beyond that, Nvidia ultimately decides allocation across customers. Who gets Blackwell racks in volume, who'll get Rubins first - kingmaking levers that only Nvidia has the ability to pull. If you're one of Jensen's chosen few, many of your fears are alleiviated.
+Beyond that, Nvidia ultimately decides allocation across customers. Who gets Blackwell racks in volume, who'll get Rubins first - kingmaking levers that only Nvidia has the ability to pull. If you're one of Jensen's chosen few, many of your fears are alleviated.
 
 TSMC sit in a more unique position. Their own success is of course tied to the same demand & the same fluctuations on that demand, but their commanding seat allows them to demand huge prepayment before even starting construction. While they're still playing it fairly safe (~30% CapEx increase YoY), they're not ramping up as much as we'd like. 
 
