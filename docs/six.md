@@ -55,7 +55,7 @@ This almost-fully-capped downside is the first we've seen, and unfortunately it'
 - Lenders want guaranteed revenue, so neoclouds need labs to sign long contracts.
 - Neolabs have nobody below them to pass it to, so they carry it, and overbuy as insurance.
 
-Pushing this risk down the chain isn't the same as getting rid of it; it's piling up on the weakest balance sheets, and the risk will go up as those sheets fall over. 
+Pushing this risk down the chain isn't the same as getting rid of it; it's piling up on the weakest balance sheets, and when those sheets fall over, it all comes back up the chain. 
 
 ### Comfort wins
 
