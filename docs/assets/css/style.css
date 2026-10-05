@@ -242,14 +242,6 @@ mjx-container[display="true"] {
 
 .foot a { color: var(--muted); }
 
-/* The home page already ends on a ruled list, so a second rule right
-   underneath just reads as clutter. Posts keep theirs. */
-.foot--bare {
-  border-top: 0;
-  padding-top: 0;
-  margin-top: 2.5rem;
-}
-
 @media (max-width: 640px) {
   html { font-size: 17px; }
   .wrap { padding: 2.25rem 1.15rem 3rem; }
