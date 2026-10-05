@@ -78,5 +78,9 @@ The GPU is the easy part. What we're really buying is everything around it: a fa
 
 In a market priced on fear, the cheapest compute doesn't win. The most comforting does.
 
+***
+
+Oct 5th, 2026.
+
 
 
