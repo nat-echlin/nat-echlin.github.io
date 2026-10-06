@@ -3,11 +3,13 @@ layout: default
 title: "Compute & fear."
 ---
 
-The market for compute is the hottest battleground in the world. Every day, we're bombarded by stories like [Figure AI committing $3.5B to Nscale](https://www.figure.ai/news/figure-and-nscale-sign-strategic-partnership), almost twice the $1.9B that Figure's ever raised; or Anthropic spending at least [$290M a week](https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute/) with xAI alone. 
+The compute market runs on fear. Every layer of the chain, from neolabs up to TSMC, is making decisions to avoid being caught out, and the cost of that fear is baked into every contract. Whoever can take that fear away will win.
+
+You can see it in the headlines. Every day, we're bombarded by stories like [Figure AI committing $3.5B to Nscale](https://www.figure.ai/news/figure-and-nscale-sign-strategic-partnership), almost twice the $1.9B that Figure's ever raised; or Anthropic spending at least [$290M a week](https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute/) with xAI alone. 
 
 It's old news that we're globally supply-side constrained. We can rattle off the reasons, but broadly it's that the demand for compute exploded accompanying the "transformer scaling just works" scenario. And the workhorse, the top-end GPU, is probably the most complicated mass-produced technology humanity has ever put together. 
 
-But scarce markets are well-documented; prices go up, so what. The buyer with the most money wins. Compute is stranger than that, because that scarcity has uncertainty along all axes; **compute is driven more by fear than scarcity**. 
+But scarcity alone doesn't explain behaviour like Figure's. Scarce markets are well-documented; prices go up, so what. The buyer with the most money wins. Compute is stranger than that, because that scarcity has uncertainty along all axes. 
 
 ### Neolabs
 
@@ -72,11 +74,15 @@ While the chips are standardised (an H100 SXM is an H100 SXM universally), the c
 
 Furthermore, contiguity has its own value that is wholly separate from commoditisation; a large block available soon is worth far more per-GPU than the same number scattered across regions & providers. 
 
----
+### What this means
 
-The GPU is the easy part. What we're really buying is everything around it: a fabric that works, storage that keeps up, a block that's all in one place, and a delivery date that doesn't slip. None of that shows up in a price per GPU-hour, which is why a dollar off a GB300 hour won't even get me on a call. Figure didn't commit $3.5B because it needed 100,000 Rubins in 2027. It committed because the alternative was being afraid of not having them.
+The GPU is the easy part. Really, we're buying everything around it: a fabric that works, storage that keeps up, a block that's all in one place, and a delivery date that doesn't slip. Of course, none of that's visible in a price per GPU-hour, which is why a dollar off a GB300 hour won't get me on a call.
 
-In a market priced on fear, the cheapest compute doesn't win. The most comforting does.
+So the useful question to ask of any compute play is where the fear ends up. Most of what exists today just moves it around. A neocloud signing long contracts with precarious neolabs hasn't got rid of any risk - it's parked it somewhere more likely to blow up. The plays that will actually work hold the risk themselves, on a balance sheet that can carry it, and have enough trust built up that a lab will sign confidently.
+
+The same logic tells you what won't work. Competing on price alone fails when buyers read a low price as a warning sign. Financial products that treat compute as a commodity are early - the thing being traded isn't standard yet. 
+
+*In a market priced on fear, the cheapest compute doesn't win. The most comforting does.*
 
 ***
 
