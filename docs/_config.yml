@@ -12,6 +12,7 @@ github_username: nat-echlin
 
 plugins:
   - jekyll-feed
+  - jekyll-redirect-from
 
 # Markdown. Left on kramdown's defaults deliberately — that is what turns
 # $$...$$ into \(...\) inline and \[...\] display for the MathJax script in
