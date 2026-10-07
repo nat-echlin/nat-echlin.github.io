@@ -76,7 +76,7 @@ Furthermore, contiguity has its own value that is wholly separate from commoditi
 
 ### What this means
 
-The GPU is the easy part. Really, we're buying everything around it: a fabric that works, storage that keeps up, a block that's all in one place, and a delivery date that doesn't slip. Of course, none of that's visible in a price per GPU-hour, which is why a dollar off a GB300 hour won't get me on a call.
+The GPU is the easy part. The value is determined by everything we're buying around it: a fabric that works, storage that keeps up, a block that's all in one place, and a delivery date that doesn't slip. Of course, none of that's visible in a price per GPU-hour, which is why a dollar off a GB300 hour won't get me on a call.
 
 So the useful question to ask of any compute play is where the fear ends up. Most of what exists today just moves it around. A neocloud signing long contracts with precarious neolabs hasn't got rid of any risk - it's parked it somewhere more likely to blow up. The plays that will actually work hold the risk themselves, on a balance sheet that can carry it, and have enough trust built up that a lab will sign confidently.
 
