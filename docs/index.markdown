@@ -6,7 +6,7 @@ layout: default
 
 # Nat Echlin
 
-Working on projects I find interesting. Writing about them.
+Essays, occasionally.
 
 Currently doing research at [cursive.ai](https://www.cursive.ai/).
 

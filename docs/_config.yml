@@ -1,7 +1,7 @@
 # Site settings — accessed in layouts as {{ site.title }}, {{ site.description }}, etc.
 
 title: Nat Echlin
-description: Working on projects I find interesting, and writing about them.
+description: Essays, occasionally.
 url: "https://nat-echlin.com"
 
 twitter_username: NatEchlin
