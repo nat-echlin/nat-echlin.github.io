@@ -4,8 +4,16 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
+    {%- comment -%}
+      Post titles end in a full stop for the on-page heading; drop it for the tab and share titles.
+    {%- endcomment -%}
     {%- assign page_title = page.title | default: site.title -%}
-    <title>{% if page.title %}{{ page.title }} — {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+    {%- assign last_index = page_title | size | minus: 1 -%}
+    {%- assign last_char = page_title | slice: last_index -%}
+    {%- if last_char == "." -%}
+      {%- assign page_title = page_title | slice: 0, last_index -%}
+    {%- endif -%}
+    <title>{% if page.title %}{{ page_title }} — {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
 
     <meta name="description" content="{{ page.description | default: site.description }}">
     <meta name="author" content="{{ site.title }}">
