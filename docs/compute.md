@@ -1,7 +1,9 @@
 ---
 layout: default
 title: "Compute & fear."
-redirect_from: /six
+redirect_from:
+  - /six
+  - /compute-fear
 ---
 
 The compute market runs on fear. Every layer of the chain, from neolabs up to TSMC, is making decisions to avoid being caught out, and the cost of that fear is baked into every contract. Whoever can take that fear away will win.
@@ -87,7 +89,7 @@ The same logic tells you what won't work. Competing on price alone fails when bu
 
 ***
 
-Oct 5th, 2026.
+Oct 7th, 2026.
 
 
 

@@ -24,7 +24,7 @@ Reach me at {firstname}.{surname}@gmail.com, or on
   <li><a href="{{ '/prospect' | relative_url }}"><span class="n">Two</span><span class="t">Marketing the consumer social model — selling emotions.</span></a></li>
   <li><a href="{{ '/burberry' | relative_url }}"><span class="n">Three</span><span class="t">QLoRA fine-tuned LLMs for recommendation models at Burberry.</span></a></li>
   <li><a href="{{ '/podcasts' | relative_url }}"><span class="n">Four</span><span class="t">Real-time podcast fact-checking costs pennies.</span></a></li>
-  <li><a href="{{ '/compute-fear' | relative_url }}"><span class="n">Five</span><span class="t">Compute & fear.</span></a></li>
+  <li><a href="{{ '/compute' | relative_url }}"><span class="n">Five</span><span class="t">Compute & fear.</span></a></li>
 </ul>
 
 Elsewhere: a list of [other blogs worth reading]({{ '/other-stuff' | relative_url }}).
